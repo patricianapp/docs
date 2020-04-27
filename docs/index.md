@@ -15,20 +15,6 @@ Each Patrician profile has powerful search options that allow you to narrow down
 
 </details>
 
-<details>
-<summary>What are Collections?</summary>
-
-A Collection is a group of albums, EPs, and singles contained within your profile. This can represent physical items you own, items in your digital music library, or just a list of music that you enjoy. Others can access your Collections using your public profile link.
-
-</details>
-
-<details>
-<summary>Can I have more than one Collection?</summary>
-
-No, but you can organize your library using tags and folders.
-
-</details>
-
 ## Collection
 
 ### Adding to Your Collection

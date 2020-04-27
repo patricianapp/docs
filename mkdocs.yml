@@ -1,5 +1,5 @@
-site_name: Test docs
-site_description: "A docs test"
+site_name: Patrician Docs
+site_description: "A webpage for your music collection"
 site_author: "Patrician Team"
 docs_dir: docs/
 repo_name: "patricianapp/docs"
