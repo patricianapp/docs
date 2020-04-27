@@ -1,17 +1,13 @@
-Welcome to our documentation!
-
-(**Developers**: For info on contributing, including a glossary of the tools and frameworks we use, check out our developer guide.)
-
-Below is our user FAQ. If your question is not answered here, you can leave a post in our [forum]() and we'll help you out.
+If your question is not answered below, leave a post in our forum (TODO: this will be a link to our self-hosted [Discourse](https://github.com/discourse/discourse/blob/master/docs/INSTALL.md) server)
 
 ## Basics
 
 <details>
 <summary>What is Patrician?</summary>
 
-Patrician is a music profile app that lets you manage a collection of all the albums, EPs, and singles that you own, physical and/or digital. You can customize and share these profiles with anyone, and they will also have the ability to recommend albums to you. These are added to your queue, which you can then add to your collection.
+Patrician is a music profile app that lets you create Collections of all the albums, EPs, and singles that you own, physical and/or digital. You can customize and share these profiles with anyone, and they will also have the ability to recommend albums to you. These are added to your Queue, which you can then add to your Collection.
 
-Each Patrician profile has powerful search options that allow you to narrow down your collection in a multitude of ways. You can filter and sort by release date, play count, ratings, custom tags and fields, and even compare your collection with others on the site.
+Profiles have a wealth of customization options
 
 </details>
 
@@ -25,7 +21,7 @@ A Collection is a group of albums, EPs, and singles contained within your profil
 <details>
 <summary>Can I have more than one Collection?</summary>
 
-No, but you can organize your library using tags and folders.
+Yes! For example you can have one for your vinyl records and one for your digital library, you could create a wishlist Collection, etc.
 
 </details>
 
